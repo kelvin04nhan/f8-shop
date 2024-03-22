@@ -1,0 +1,40 @@
+html {
+    background-image: url(https://wall.vn/wp-content/uploads/2020/04/hanoi-ve-dem-3-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    background-color: aliceblue;
+    /* display: none; */
+    padding: 10px;
+    border: 20px dashed;
+    border-color: brown;
+}
+.box2 {
+    background-color: rebeccapurple;
+    padding: 20px;
+    border-style: double;
+}
+
+.box3 {
+    background-color: aquamarine;
+    padding:30px;
+    border-radius: 50px;
+    border-style: initial;
+}
+.box4 {
+    background-color: blanchedalmond;
+    padding: 40px;
+    border-spacing: 10px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-top-width: 40px;
+    
+}

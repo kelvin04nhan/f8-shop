@@ -1,0 +1,14 @@
+:root {
+    --text-color:rgb(99, 158, 99);
+
+}
+h1 {
+
+    color:var(--text-color);
+}
+h2 {
+    color:aquamarine;
+}
+h3 {
+    color:black;
+}

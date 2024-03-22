@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+}
+p {
+    color:green;
+    font-size: 43px;
+}
+#first-heading {
+    color: yellowgreen;
+    font-size: 49px;
+}
+.second-heading {
+    color: bisque;
+    font-size: 40px;
+}
